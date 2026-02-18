@@ -47,7 +47,3 @@ Aqui estão as ferramentas que utilizo para dar vida aos meus projetos:
 </div>
 
 ---
-
-### 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedroezequiellima&show_icons=true&theme=radical)
