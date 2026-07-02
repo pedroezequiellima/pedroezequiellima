@@ -2,16 +2,7 @@
 
 **Desenvolvedor de Software | Cientista de Dados**
 
-Olá! Sou o Pedro, apaixonado por transformar dados em soluções e por criar sistemas que facilitam o dia a dia. Atualmente, estou mergulhando de cabeça no curso **Técnico em Desenvolvimento de Sistemas pelo SENAI**, focando em construir uma base sólida tanto em engenharia de software quanto em inteligência de dados.
-
----
-
-### 🚀 Sobre mim
-
-- 🎓 **Educação:** Aluno de Desenvolvimento de Sistemas no SENAI.
-- 💡 **Foco Atual:** Especialização em **Python** para análise de dados, automação de processos e back-end.
-- 🏗️ **Projetos:** Desenvolvendo desde modelos de previsão de score de crédito até sistemas full-stack de registro automotivo.
-- 🤖 **Automação:** Entusiasta de fluxos inteligentes utilizando **n8n** para otimização de negócios.
+Olá! Sou o Pedro, apaixonado por transformar dados em soluções e por criar sistemas que facilitam o dia a dia. Atualmente, estou mergulhando de cabeça no curso **DevOps**, focando em construir uma base sólida tanto em engenharia de software quanto em inteligência de dados.
 
 ---
 
