@@ -69,9 +69,4 @@ Aqui estão as principais ferramentas e frameworks que utilizo para desenvolver 
 
 ---
 
-### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroezequiellima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroezequiellima&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
