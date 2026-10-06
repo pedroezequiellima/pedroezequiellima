@@ -1,6 +1,6 @@
 # 👨‍💻 Pedro Ezequiel
 
-**Software Engineer | Data Science & Machine Learning**
+**Software Engineer**
 
 Olá! Sou o Pedro, apaixonado por transformar dados em decisões e por criar sistemas escaláveis de ponta a ponta. Atualmente, busco conectar a engenharia de software sólida (Node.js, Next.js, TypeScript) ao poder do processamento científico e da inteligência artificial (Python, Visão Computacional e ML).
 
