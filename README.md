@@ -1,8 +1,10 @@
-# 👨‍💻 Pedro Ezequiel
+# 🛡️ Pedro Ezequiel
 
-**Software Engineer**
+**Software Engineer | Focused on Cybersecurity, AppSec & DevSecOps**
 
-Olá! Sou o Pedro, apaixonado por transformar dados em decisões e por criar sistemas escaláveis de ponta a ponta. Atualmente, busco conectar a engenharia de software sólida (Node.js, Next.js, TypeScript) ao poder do processamento científico e da inteligência artificial (Python, Visão Computacional e ML).
+Graduando em **Engenharia de Software (UNINTER)** com sólida vivência em desenvolvimento de software e infraestrutura. Atuo na convergência entre desenvolvimento seguro e operações resilientes, utilizando **Python** como principal linguagem para automação, análise de segurança e ferramentas defensivas/ofensivas. 
+
+Meu foco é aplicar a mentalidade **Shift-Left Security**: integrar segurança desde as primeiras etapas do ciclo de vida do software (S-SDLC), mitigação de vulnerabilidades (OWASP Top 10), segurança em containers e automação de pipelines CI/CD seguros.
 
 ---
 
@@ -22,51 +24,51 @@ Olá! Sou o Pedro, apaixonado por transformar dados em decisões e por criar sis
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### 🛠️ Arsenal & Tecnologias
 
-Aqui estão as principais ferramentas e frameworks que utilizo para desenvolver soluções:
-
-#### 🐍 Data Science, IA & Visão Computacional
+#### 🔒 Cibersegurança & AppSec
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
 </div>
 
 <br>
 
-#### ⚡ Software Engineering & Fullstack
+#### ⚙️ DevOps & Cloud Security
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</div>
+
+<br>
+
+#### ⚡ Engenharia de Software & Backend
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-</div>
-
-<br>
-
-#### 🗄️ Banco de Dados & Infraestrutura
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-* **[AgroIvent](https://github.com/pedroezequiellima/agroivent-backend):** Plataforma para cálculos de inventário florestal/agrícola. Arquitetura híbrida com backend em NestJS e integração com scripts em Python para processamento estatístico científico.
-* **[Credit Score Classifier](https://github.com/pedroezequiellima/credit-score-classifier):** Modelo de Machine Learning para avaliação de perfil financeiro e predição de risco de inadimplência.
-* **[Predição de Risco de AVC](https://github.com/pedroezequiellima/Predi-o-de-Risco-de-AVC-com-Ciencia-de-Dados-):** Modelo preditivo biomédico desenvolvido em Python com Scikit-Learn para classificação e identificação de padrões de risco.
-* **[IBVM Web Platform](https://github.com/pedroezequiellima/ibvm-web-platform):** Portal institucional interativo desenvolvido para a Igreja Batista de Vila Marcela. Construído com Next.js, React e Tailwind CSS no frontend e focado em arquitetura modular para gestão de cultos, transmissões ao vivo, eventos e campanhas da comunidade.
+- **[Port-scanner-lab](https://github.com/pedroezequiellima/Port-scanner-lab):** Scanner multithreaded de portas TCP desenvolvido em Python para análise e mapeamento de superfície de ataque em redes e hosts.
+- **[Ache em Petrolina](https://github.com/pedroezequiellima/Ache-em-Petrolina):** Plataforma de catálogo inteligente desenvolvida com monorepo (Next.js, NestJS e Prisma). Implementação de práticas de DevOps com esteiras de CI/CD automatizadas no GitHub Actions, conteinerização segura com Docker e infraestrutura como código (IaC) com Terraform.
+- **[AgroIvent](https://github.com/pedroezequiellima/agroivent-backend):** Backend híbrido e escalável em NestJS integrado a scripts de processamento numérico e automação em Python.
+- **[DevOps Docker Labs](https://github.com/pedroezequiellima/devops-docker-labs):** Laboratórios práticos de containerização, redes de containers, persistência de volumes e boas práticas de isolamento de processos.
 
 ---
 
-
+### 🎯 Foco de Estudo & Aperfeiçoamento Contínuo
+- **Application Security:** Boas práticas de codificação segura (Secure Coding), mitigação de falhas da OWASP Top 10 e modelagem de ameaças.
+- **DevSecOps:** Integração de ferramentas SAST, DAST e verificação de dependências/containers em pipelines de CI/CD.
+- **Governança & Risco:** Alinhamento de padrões de segurança e conformidade aos requisitos de negócio.
